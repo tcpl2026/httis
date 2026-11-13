@@ -139,9 +139,6 @@ def cards_db():
     yield db
     db.close()
 
-    # Well-defined trends of that kind do not occur very often-only once in about four or five years-
-    # but during that time there are many well-defined trends which last for a comparatively short time.
-    # I consequently use the words "Upward Trend" and "Downward Trend," because they fully express what is going on at that specific time.
     # Moreover, if you make a purchase because you think the market is going into an Upward Trend, 
     # and then a few weeks later come to the conclusion the market is heading into a Downward Trend, 
     # you will find it much easier to accept the reversal in trend
