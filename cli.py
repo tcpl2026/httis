@@ -139,7 +139,6 @@ def cards_db():
     yield db
     db.close()
 
-    # Moreover, if you make a purchase because you think the market is going into an Upward Trend, 
-    # and then a few weeks later come to the conclusion the market is heading into a Downward Trend, 
-    # you will find it much easier to accept the reversal in trend
-    # than if you had a confirmed opinion that the market was definitely in a "bullish" or "bearish" stage.
+    # The Livermore Method of recording prices in conjunction with the time element 
+    # is the result of over thirty years of study of principles 
+    # which would serve me in forming a basic guide for the next important movement.
