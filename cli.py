@@ -139,6 +139,8 @@ def cards_db():
     yield db
     db.close()
 
-    # The Livermore Method of recording prices in conjunction with the time element 
-    # is the result of over thirty years of study of principles 
-    # which would serve me in forming a basic guide for the next important movement.
+    # After making my first record, I found it did not help me to any great extent.
+    # Weeks later I had a new thought which aroused me to fresh endeavors, 
+    # only to find out that, 
+    # while it was an improvement over the first one, 
+    # it still did not give me the desired information.
